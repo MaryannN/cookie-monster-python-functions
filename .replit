@@ -1,2 +1,5 @@
 language = "python3"
 run = "python3 testdiet.py"
+
+[nix]
+channel = "stable-22_05"
